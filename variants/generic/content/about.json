@@ -1,0 +1,30 @@
+{
+  "en": {
+    "title": "About Devfolio",
+    "lead": "Devfolio is an open portfolio starter from ITwerf for GitHub Pages.",
+    "intro": [
+      "This generic repo is meant to be forked or downloaded and made your own: change the config, swap in your projects and posts, and deploy from the repo root.",
+      "ITwerf is the organisation behind Devfolio - a community focused on collaboration, education, and supporting people in tech who do not always have it easy."
+    ],
+    "sections": [],
+    "closingTitle": "Make it yours",
+    "closing": [
+      "Edit config/site.json and the files under content/, then push to GitHub Pages (Deploy from branch, main, root).",
+      "For the full ITwerf story, visit https://itwerf.github.io/about.html"
+    ]
+  },
+  "nl": {
+    "title": "Over Devfolio",
+    "lead": "Devfolio is een open portfolio-starter van ITwerf voor GitHub Pages.",
+    "intro": [
+      "Deze generieke repo is bedoeld om te forken of te downloaden en van jou te maken: pas de config aan, zet je projecten en posts erin, en deploy vanaf de repo-root.",
+      "ITwerf is de organisatie achter Devfolio - een gemeenschap gericht op samenwerking, educatie en ondersteuning van mensen in tech die het niet altijd even makkelijk hebben."
+    ],
+    "sections": [],
+    "closingTitle": "Maak het van jou",
+    "closing": [
+      "Pas config/site.json en de bestanden onder content/ aan, en push naar GitHub Pages (Deploy from branch, main, root).",
+      "Voor het volledige ITwerf-verhaal: https://itwerf.github.io/about.html"
+    ]
+  }
+}

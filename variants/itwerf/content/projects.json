@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "devfolio",
+    "title": {
+      "en": "Devfolio",
+      "nl": "Devfolio"
+    },
+    "summary": {
+      "en": "Our open portfolio framework for GitHub Pages - static files, dark mode, EN/NL, no build step.",
+      "nl": "Ons open portfolio-framework voor GitHub Pages - statische bestanden, dark mode, EN/NL, geen build-stap."
+    },
+    "description": {
+      "en": "Devfolio is the ITwerf starter for developer portfolios and project pages. Host it from a GitHub repo root, customise config and content, and ship. Pre-release builds are on the Download page; the clean generic source lives at github.com/itwerf/devfolio.",
+      "nl": "Devfolio is de ITwerf-starter voor developer-portfolio's en projectpagina's. Host vanaf de root van een GitHub-repo, pas config en content aan, en publiceer. Pre-release builds staan op de Download-pagina; de generieke bron staat op github.com/itwerf/devfolio."
+    },
+    "tags": ["HTML", "CSS", "JavaScript", "GitHub Pages"],
+    "featured": true,
+    "year": 2026,
+    "links": {
+      "demo": "https://itwerf.github.io",
+      "repo": "https://github.com/itwerf/devfolio"
+    },
+    "accent": "#0D7377"
+  },
+  {
+    "slug": "theme-walkthrough",
+    "title": {
+      "en": "Theme walkthrough",
+      "nl": "Thema-walkthrough"
+    },
+    "summary": {
+      "en": "Demo project: how to recolour Devfolio with config theme tokens and CSS variables.",
+      "nl": "Demoproject: hoe je Devfolio herkleurt met theme-tokens in config en CSS-variabelen."
+    },
+    "description": {
+      "en": "Open config/site.json and change theme.accent / theme.accentSoft. Light mode picks those up; dark mode keeps its own surface colours but still uses your brand accent in many places via CSS. For deeper changes, edit assets/css/site.css variables under :root and html[data-theme=\"dark\"]. Read the blog post \"Customise the Devfolio theme\".",
+      "nl": "Open config/site.json en pas theme.accent / theme.accentSoft aan. Light mode gebruikt die waarden; dark mode houdt eigen oppervlaktekleuren maar gebruikt je accent op veel plekken via CSS. Voor diepere changes: variabelen in assets/css/site.css onder :root en html[data-theme=\"dark\"]. Lees ook de blogpost \"Customise the Devfolio theme\"."
+    },
+    "tags": ["Docs", "CSS", "Theme"],
+    "featured": true,
+    "year": 2026,
+    "links": {
+      "repo": "https://github.com/itwerf/devfolio"
+    },
+    "accent": "#C45D2C"
+  },
+  {
+    "slug": "downloads-feature",
+    "title": {
+      "en": "Downloads feature",
+      "nl": "Download-feature"
+    },
+    "summary": {
+      "en": "Demo project: turn the Download page on/off, add zip versions, or drop old builds.",
+      "nl": "Demoproject: Download-pagina aan/uit, zip-versies toevoegen of oude builds weghalen."
+    },
+    "description": {
+      "en": "Set features.downloads to false in config/site.json to hide Download in the nav, footer, and home CTAs. To manage versions, edit content/versions.json and place zip files under releases/. Remove an entry (or the zip) to retire a build. See the blog post \"Manage Devfolio downloads\".",
+      "nl": "Zet features.downloads op false in config/site.json om Download te verbergen in nav, footer en home-knoppen. Versies beheer je in content/versions.json met zip-bestanden onder releases/. Verwijder een entry (of de zip) om een build terug te trekken. Zie de blogpost \"Manage Devfolio downloads\"."
+    },
+    "tags": ["Docs", "Releases", "Config"],
+    "featured": true,
+    "year": 2026,
+    "links": {
+      "demo": "https://itwerf.github.io/download.html",
+      "repo": "https://github.com/itwerf/devfolio"
+    },
+    "accent": "#3D5A80"
+  }
+]

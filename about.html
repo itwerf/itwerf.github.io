@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Who we are · ITwerf</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="stylesheet" href="assets/css/site.css" />
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("devfolio-theme");
+          document.documentElement.setAttribute(
+            "data-theme",
+            t === "light" ? "light" : "dark"
+          );
+        } catch (e) {
+          document.documentElement.setAttribute("data-theme", "dark");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="atmosphere" aria-hidden="true"></div>
+    <div class="prerelease-banner" data-banner>Pre-release BUILD</div>
+    <header class="site-header">
+      <a class="brand" href="index.html">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span data-site-name>ITwerf</span>
+      </a>
+      <div class="header-actions" data-chrome-header></div>
+    </header>
+
+    <main class="shell-main page" data-about>
+      <p data-i18n="loadingPost">Loading...</p>
+    </main>
+
+    <footer class="site-footer">
+      <p>© <span data-year></span> <span data-site-name>ITwerf</span></p>
+      <div class="footer-links">
+        <a href="download.html" data-i18n="footerDownload">Download</a>
+        <a
+          data-github
+          href="https://github.com/itwerf"
+          target="_blank"
+          rel="noreferrer"
+          data-i18n="footerGithub"
+          >GitHub</a
+        >
+      </div>
+    </footer>
+
+    <script src="assets/js/site.js"></script>
+    <script src="assets/js/about.js"></script>
+  </body>
+</html>

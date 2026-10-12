@@ -1,0 +1,31 @@
+{
+  "product": "Devfolio",
+  "latest": "0.1.0-prerelease",
+  "sourceRepo": "https://github.com/itwerf/devfolio",
+  "releases": [
+    {
+      "version": "0.1.0-prerelease",
+      "date": "2026-10-11",
+      "channel": "pre-release",
+      "title": {
+        "en": "First public prebuild",
+        "nl": "Eerste publieke prebuild"
+      },
+      "notes": {
+        "en": [
+          "Plain HTML/CSS/JS for GitHub Pages (repo root)",
+          "Dark/light theme toggle",
+          "EN/NL language toggle",
+          "Projects, blog, Who we are, Download page"
+        ],
+        "nl": [
+          "Plain HTML/CSS/JS voor GitHub Pages (repo-root)",
+          "Donker/licht thema",
+          "EN/NL taalschakelaar",
+          "Projecten, blog, Wie zijn wij, Downloadpagina"
+        ]
+      },
+      "file": "releases/devfolio-0.1.0-prerelease.zip"
+    }
+  ]
+}

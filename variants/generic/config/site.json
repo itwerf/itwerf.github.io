@@ -1,0 +1,37 @@
+{
+  "name": "Devfolio",
+  "title": {
+    "en": "Portfolio starter",
+    "nl": "Portfolio-starter"
+  },
+  "tagline": {
+    "en": "Make this site yours. Edit config and content, push to GitHub Pages - no build step.",
+    "nl": "Maak deze site van jou. Pas config en content aan, push naar GitHub Pages - geen build-stap."
+  },
+  "banner": {
+    "en": "Devfolio pre-release - generic starter. Customise and redeploy.",
+    "nl": "Devfolio pre-release - generieke starter. Pas aan en deploy opnieuw."
+  },
+  "location": {
+    "en": "Your name here",
+    "nl": "Jouw naam hier"
+  },
+  "email": "hello@example.com",
+  "social": {
+    "github": "https://github.com/itwerf/devfolio"
+  },
+  "features": {
+    "downloads": true
+  },
+  "release": {
+    "label": {
+      "en": "Download",
+      "nl": "Download"
+    },
+    "href": "download.html"
+  },
+  "theme": {
+    "accent": "#0D7377",
+    "accentSoft": "#14919B"
+  }
+}

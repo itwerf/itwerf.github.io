@@ -1,0 +1,88 @@
+{
+  "en": {
+    "title": "ITwerf - Technology, Community & Support",
+    "lead": "ITwerf is a community-driven organisation built around technology, creativity, and helping people move forward.",
+    "intro": [
+      "We believe everyone deserves access to technology, guidance, and a place where they feel welcome, regardless of their background, financial situation, or the challenges they face. Whether someone is neurodivergent, struggling financially, learning new skills, or simply looking for some direction, ITwerf aims to provide a supportive environment where people can connect, learn, and build things together.",
+      "ITwerf brings these goals together through several wings, each with its own purpose."
+    ],
+    "sections": [
+      {
+        "title": "The Hosting Wing",
+        "paragraphs": [
+          "The Hosting Wing is the infrastructure behind ITwerf. Currently operating from a home lab, it focuses on hosting services, managing networks, and experimenting with self-hosted technology.",
+          "This wing also brings together a collection of Minecraft servers under one banner, creating a shared gaming environment where people can play, socialise, and become part of the community.",
+          "Over time, the Hosting Wing can grow into a broader platform for community services, game servers, and open infrastructure."
+        ]
+      },
+      {
+        "title": "The Development Wing",
+        "paragraphs": [
+          "The Development Wing is where ideas become reality.",
+          "Operating primarily online, including through Discord, it focuses on software development, open-source projects, documentation, tools, and experiments. We build practical software that is clear, usable, and easy to host, giving people the freedom to adapt our work to their own needs.",
+          "Projects such as Devfolio reflect this approach: creating useful tools that people can use, customise, and build upon without unnecessary complexity."
+        ]
+      },
+      {
+        "title": "The Support Wing",
+        "paragraphs": [
+          "The Support Wing focuses on people rather than technology.",
+          "It aims to provide a welcoming community where people can ask questions, share experiences, seek guidance, and help one another. This includes people who are neurodivergent, those facing financial difficulties, people who feel stuck, and anyone who could benefit from a supportive environment.",
+          "Support doesn't always mean having all the answers. Sometimes it means helping someone find the right resources, learn a new skill, solve a problem, or simply feel less alone.",
+          "The Support Wing is primarily online, using Discord as a place for communication and community building."
+        ]
+      }
+    ],
+    "closingTitle": "One Organisation, Different Purposes",
+    "closing": [
+      "Although each wing has a different focus, they are all part of the same organisation.",
+      "The Hosting Wing provides the infrastructure. The Development Wing builds the tools. The Support Wing helps the people who use them and the community around them.",
+      "Together, they form ITwerf: an organisation that uses technology not as an end in itself, but as a way to create opportunities, share knowledge, and help people build something of their own.",
+      "ITwerf is about making technology accessible, creating room for people to grow, and building a community where everyone has something to contribute."
+    ]
+  },
+  "nl": {
+    "title": "ITwerf - Technologie, gemeenschap en ondersteuning",
+    "lead": "ITwerf is een gemeenschapsgedreven organisatie die technologie, creativiteit en ondersteuning samenbrengt.",
+    "intro": [
+      "Wij geloven dat iedereen toegang verdient tot technologie, begeleiding en een plek waar diegene zich welkom voelt, ongeacht diens achtergrond, financiële situatie of persoonlijke uitdagingen. Of je nu neurodivergent bent, financiële moeilijkheden ervaart, nieuwe vaardigheden wilt leren of simpelweg wat richting zoekt: ITwerf wil een ondersteunende omgeving bieden waar mensen elkaar kunnen ontmoeten, van elkaar kunnen leren en samen dingen kunnen bouwen.",
+      "ITwerf brengt deze doelen samen in verschillende afdelingen, elk met een eigen functie en verantwoordelijkheid."
+    ],
+    "sections": [
+      {
+        "title": "De Hostingafdeling",
+        "paragraphs": [
+          "De Hostingafdeling vormt de technische infrastructuur van ITwerf. Deze afdeling draait momenteel vanuit een homelab en richt zich op het hosten van diensten, netwerkbeheer en experimenteren met zelfgehoste technologie.",
+          "Daarnaast brengt deze afdeling verschillende Minecraft-servers samen onder een naam: ITwerf. Zo ontstaat een gezamenlijke gameomgeving waar mensen kunnen spelen, socialiseren en deel kunnen uitmaken van de gemeenschap.",
+          "Op termijn kan de Hostingafdeling uitgroeien tot een breder platform voor gemeenschapsdiensten, gameservers en eigen infrastructuur."
+        ]
+      },
+      {
+        "title": "De Ontwikkelingsafdeling",
+        "paragraphs": [
+          "De Ontwikkelingsafdeling is de plek waar ideeën werkelijkheid worden.",
+          "Deze afdeling werkt voornamelijk online, onder andere via Discord, en richt zich op softwareontwikkeling, opensourceprojecten, documentatie, hulpmiddelen en experimenten.",
+          "We ontwikkelen praktische software die overzichtelijk, gebruiksvriendelijk en eenvoudig zelf te hosten is. Daarbij vinden we het belangrijk dat anderen onze projecten kunnen aanpassen, uitbreiden en naar eigen inzicht kunnen gebruiken.",
+          "Projecten zoals Devfolio passen binnen deze visie: bruikbare hulpmiddelen maken die mensen kunnen inzetten en aanpassen zonder onnodige complexiteit."
+        ]
+      },
+      {
+        "title": "De Ondersteuningsafdeling",
+        "paragraphs": [
+          "De Ondersteuningsafdeling richt zich niet op technologie, maar op de mensen erachter.",
+          "We willen een toegankelijke en gastvrije gemeenschap creëren waar mensen vragen kunnen stellen, ervaringen kunnen delen, begeleiding kunnen zoeken en elkaar kunnen helpen.",
+          "Dit omvat onder andere neurodivergente mensen, mensen die financiële moeilijkheden ervaren, mensen die even vastlopen en iedereen die behoefte heeft aan een ondersteunende omgeving.",
+          "Ondersteuning betekent niet dat we altijd alle antwoorden hebben. Soms betekent het iemand helpen de juiste informatie of hulpmiddelen te vinden, een vaardigheid te leren, een probleem op te lossen of zich simpelweg minder alleen te voelen.",
+          "De Ondersteuningsafdeling richt zich voornamelijk op online contact, waarbij Discord een belangrijke rol speelt in de communicatie en gemeenschapsvorming."
+        ]
+      }
+    ],
+    "closingTitle": "Een organisatie, verschillende doelen",
+    "closing": [
+      "Hoewel iedere afdeling een eigen focus heeft, maken ze allemaal deel uit van dezelfde organisatie.",
+      "De Hostingafdeling verzorgt de infrastructuur. De Ontwikkelingsafdeling bouwt de hulpmiddelen. De Ondersteuningsafdeling helpt mensen hun weg te vinden en draagt bij aan de gemeenschap die eromheen ontstaat.",
+      "Samen vormen ze ITwerf: een organisatie die technologie niet als doel op zich ziet, maar als middel om kansen te creëren, kennis te delen en mensen te helpen iets van zichzelf op te bouwen.",
+      "ITwerf draait om technologie toegankelijk maken, mensen de ruimte geven om te groeien en een gemeenschap bouwen waarin iedereen iets kan bijdragen."
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "slug": "customise-the-theme",
+    "title": {
+      "en": "Customise the Devfolio theme",
+      "nl": "Pas het Devfolio-thema aan"
+    },
+    "date": "2026-10-12",
+    "summary": {
+      "en": "Change colours, dark/light defaults, and fonts without rebuilding anything.",
+      "nl": "Verander kleuren, dark/light defaults en fonts zonder iets te rebuilden."
+    },
+    "tags": ["docs", "theme"]
+  },
+  {
+    "slug": "manage-downloads",
+    "title": {
+      "en": "Manage Devfolio downloads",
+      "nl": "Beheer Devfolio-downloads"
+    },
+    "date": "2026-10-12",
+    "summary": {
+      "en": "Turn the Download page on or off, add a new zip, or retire an old version.",
+      "nl": "Zet de Download-pagina aan of uit, voeg een zip toe, of trek een oude versie terug."
+    },
+    "tags": ["docs", "releases"]
+  },
+  {
+    "slug": "add-your-work",
+    "title": {
+      "en": "Add your work and posts",
+      "nl": "Voeg je werk en posts toe"
+    },
+    "date": "2026-10-12",
+    "summary": {
+      "en": "How to list projects and publish a blog post on a Devfolio site.",
+      "nl": "Hoe je projecten toevoegt en een blogpost publiceert op een Devfolio-site."
+    },
+    "tags": ["docs", "content"]
+  },
+  {
+    "slug": "motion-with-restraint",
+    "title": "Motion with restraint",
+    "date": "2025-11-12",
+    "summary": "How to make interfaces feel alive without turning them into a carnival.",
+    "tags": ["design", "motion"]
+  },
+  {
+    "slug": "shipping-on-github-pages",
+    "title": "Shipping on GitHub Pages",
+    "date": "2025-09-03",
+    "summary": "Upload static files, enable Pages from the branch, and you are live.",
+    "tags": ["web", "devops"]
+  }
+]

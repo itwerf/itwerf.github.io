@@ -1,0 +1,69 @@
+[
+  {
+    "slug": "devfolio",
+    "title": {
+      "en": "Devfolio",
+      "nl": "Devfolio"
+    },
+    "summary": {
+      "en": "This starter - a motion portfolio for GitHub Pages by ITwerf.",
+      "nl": "Deze starter - een motion portfolio voor GitHub Pages van ITwerf."
+    },
+    "description": {
+      "en": "Replace this card with your own projects. Devfolio is the framework you are looking at: static HTML/CSS/JS, dark mode, EN/NL, blog and downloads.",
+      "nl": "Vervang deze kaart door je eigen projecten. Devfolio is het framework dat je nu ziet: statische HTML/CSS/JS, dark mode, EN/NL, blog en downloads."
+    },
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "featured": true,
+    "year": 2026,
+    "links": {
+      "demo": "https://itwerf.github.io",
+      "repo": "https://github.com/itwerf/devfolio"
+    },
+    "accent": "#0D7377"
+  },
+  {
+    "slug": "theme-walkthrough",
+    "title": {
+      "en": "Theme walkthrough",
+      "nl": "Thema-walkthrough"
+    },
+    "summary": {
+      "en": "Demo: recolour the site via config/site.json theme tokens.",
+      "nl": "Demo: herkleur de site via theme-tokens in config/site.json."
+    },
+    "description": {
+      "en": "Change theme.accent and theme.accentSoft in config/site.json. For layout colours, edit CSS variables in assets/css/site.css. Full steps are in the blog post \"Customise the Devfolio theme\".",
+      "nl": "Pas theme.accent en theme.accentSoft aan in config/site.json. Voor layoutkleuren: CSS-variabelen in assets/css/site.css. Volledige stappen staan in de blogpost \"Customise the Devfolio theme\"."
+    },
+    "tags": ["Docs", "CSS", "Theme"],
+    "featured": true,
+    "year": 2026,
+    "links": {
+      "repo": "https://github.com/itwerf/devfolio"
+    },
+    "accent": "#C45D2C"
+  },
+  {
+    "slug": "downloads-feature",
+    "title": {
+      "en": "Downloads feature",
+      "nl": "Download-feature"
+    },
+    "summary": {
+      "en": "Demo: enable/disable downloads and manage version zips.",
+      "nl": "Demo: downloads aan/uit en versie-zips beheren."
+    },
+    "description": {
+      "en": "Toggle features.downloads in config/site.json. Add or remove rows in content/versions.json and matching files in releases/. Details in \"Manage Devfolio downloads\".",
+      "nl": "Schakel features.downloads in config/site.json. Voeg rijen toe of weg in content/versions.json en bijbehorende bestanden in releases/. Details in \"Manage Devfolio downloads\"."
+    },
+    "tags": ["Docs", "Releases", "Config"],
+    "featured": true,
+    "year": 2026,
+    "links": {
+      "repo": "https://github.com/itwerf/devfolio"
+    },
+    "accent": "#3D5A80"
+  }
+]

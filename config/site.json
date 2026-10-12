@@ -1,0 +1,37 @@
+{
+  "name": "ITwerf",
+  "title": {
+    "en": "Open tools for builders",
+    "nl": "Open tools voor makers"
+  },
+  "tagline": {
+    "en": "Technology, community and support - collaboration and education for people in tech, including those who do not have it easy.",
+    "nl": "Technologie, gemeenschap en ondersteuning - samenwerking en educatie voor mensen in tech, ook wie het niet altijd even makkelijk heeft."
+  },
+  "banner": {
+    "en": "ITwerf / Devfolio pre-release - for testing on GitHub Pages.",
+    "nl": "ITwerf / Devfolio pre-release - ter test op GitHub Pages."
+  },
+  "location": {
+    "en": "Organisation",
+    "nl": "Organisatie"
+  },
+  "email": "hello@itwerf.nl",
+  "social": {
+    "github": "https://github.com/itwerf"
+  },
+  "features": {
+    "downloads": true
+  },
+  "release": {
+    "label": {
+      "en": "Download Devfolio",
+      "nl": "Download Devfolio"
+    },
+    "href": "download.html"
+  },
+  "theme": {
+    "accent": "#0D7377",
+    "accentSoft": "#14919B"
+  }
+}
