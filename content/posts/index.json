@@ -1,4 +1,19 @@
 [
+  
+{
+  "slug": "installing-partyvisionsmp",
+  "title": {
+    "en": "Installing PartyVisionSMP",
+    "nl": "PartyVisionSMP installeren"
+  },
+  "date": "2026-10-12",
+  "summary": {
+    "en": "Learn how to install and set up PartyVisionSMP step by step.",
+    "nl": "Leer stap voor stap hoe je PartyVisionSMP installeert en instelt."
+  },
+  "tags": ["guide", "minecraft", "partyvisionsmp"]
+},
+
   {
     "slug": "customise-the-theme",
     "title": {
