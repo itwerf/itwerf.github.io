@@ -45,6 +45,35 @@
     "accent": "#C45D2C"
   },
   {
+  "slug": "partyvisionsmp",
+  "title": {
+    "en": "PartyVisionSMP",
+    "nl": "PartyVisionSMP"
+  },
+  "summary": {
+    "en": "A Minecraft Fabric modpack with a ready-to-import MultiMC instance, Modrinth release, and manual installation instructions.",
+    "nl": "Een Minecraft Fabric-modpack met een kant-en-klare MultiMC-instance, een Modrinth-release en instructies voor handmatige installatie."
+  },
+  "description": {
+    "en": "Get started with PartyVisionSMP using the ready-to-import MultiMC instance ZIP. The Modrinth release is currently under review. Prefer installing the mods yourself? Read the installation guide for Java setup, Fabric installation, mod dependencies, and troubleshooting.",
+    "nl": "Ga aan de slag met PartyVisionSMP via het kant-en-klare MultiMC-instancebestand. De Modrinth-release wordt momenteel beoordeeld. Installeer je de mods liever zelf? Lees de installatiehandleiding voor Java, Fabric, mod-afhankelijkheden en probleemoplossing."
+  },
+  "tags": [
+    "Gaming",
+    "Minecraft",
+    "Modpack",
+    "Fabric"
+  ],
+  "featured": true,
+  "year": 2026,
+  "links": {
+    "demo": "https://modrinth.com/modpack/partyvisionsmp",
+    "repo": "https://www.mediafire.com/file/58gmxqpdg0wv0mc/PVSMP.zip/file",
+    "guide": "blog.html#installing-partyvisionsmp"
+  },
+  "accent": "#6C4AB6"
+},
+  {
     "slug": "downloads-feature",
     "title": {
       "en": "Downloads feature",
