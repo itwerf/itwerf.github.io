@@ -14,6 +14,7 @@ title: Installing PartyVisionSMP
 
 Welcome to **PartyVisionSMP (PVSMP)**! This guide explains how to
 install the modpack and get ready to play.
+Dutch version(nederlandse versie): https://itwerf.nl/post.html?slug=partyvisionsmp-installeren-nl
 
 There are three ways to get started:
 
