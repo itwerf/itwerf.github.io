@@ -38,14 +38,22 @@
           Devfolio.escapeHtml(Devfolio.t("repository")) +
           "</a>";
       }
+      if (project.links && project.links.download) {
+        actions +=
+          '<a class="btn btn-ghost" href="' +
+          project.links.download +
+          '" target="_blank" rel="noreferrer">' +
+          "Download" +
+          "</a>";
+      }
       if (project.links && project.links.docs) {
-  actions +=
-    '<a class="btn btn-ghost" href="' +
-    project.links.docs +
-    '" target="_blank" rel="noreferrer">' +
-    "Docs" +
-    "</a>";
-}
+        actions +=
+          '<a class="btn btn-ghost" href="' +
+          project.links.docs +
+          '" target="_blank" rel="noreferrer">' +
+          "Docs" +
+          "</a>";
+      }
       root.innerHTML =
         '<a class="text-link" href="projects.html">' +
         Devfolio.escapeHtml(Devfolio.t("backProjects")) +
